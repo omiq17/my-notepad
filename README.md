@@ -1,4 +1,5 @@
-# just-the-docs-template-test
+# my-notepad
+## just-the-docs-template-test
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
