@@ -9,32 +9,32 @@ nav_order: 1
 
 ### 1. Virtual Machine
 
-    - Not a physical machine, exist inside a physical machine.
-    - Lease resources from the mother computer - virtualization.
-    - Communicate with mother computer for any task.
-    - Still exists, mostly used by Data Centers.
+- Not a physical machine, exist inside a physical machine.
+- Lease resources from the mother computer - virtualization.
+- Communicate with mother computer for any task.
+- Still exists, mostly used by Data Centers.
 
 ### 2. Internet & client-server model
 
-    - It was difficult to communicate/transfer data between two computers.
-    - Tim Berners-Lee invented WWW in 1989.
-    - HTTP Procol invented.
-    - Server-Client models gets popular. Server processes the request and Client sends the request.
-    - Internet and Website idea boomed. Born Amazon, Salesforce.
+- It was difficult to communicate/transfer data between two computers.
+- Tim Berners-Lee invented WWW in 1989.
+- HTTP Procol invented.
+- Server-Client models gets popular. Server processes the request and Client sends the request.
+- Internet and Website idea boomed. Born Amazon, Salesforce.
 
 ### 3. SAAS (Salesforce)
 
-    - Previously user bought CD/DVD from shop, install the software in their own PC and use it.
-    - Why don't we just make that software in Server, provide to user through interner? Publisher maaintain the software in server, fix bugs and upgrade version very easily by this.
-    - Salesforce, in 1999 first launced a web-based CRM.
+- Previously user bought CD/DVD from shop, install the software in their own PC and use it.
+- Why don't we just make that software in Server, provide to user through interner? Publisher maaintain the software in server, fix bugs and upgrade version very easily by this.
+- Salesforce, in 1999 first launced a web-based CRM.
 
 ### 4. IAAS (AWS)
 
-    - In special events, the website had huge traffics from users. But after the events the traffic gets low, the hardware and resources remains unused most of the time.
-    - Amazon got the idea to rent their unused hardware/infrastucuture to users.
-    - They introduced EC2 (Elastic Computer Cloud) where coustomer can create their own VM by HTTP request.
-    - At special events, I can rent more same configured VM/resource. Then can release when I don't need. Costing will be as per usage.
-    - Intoduced S3 for storage.
+- In special events, the website had huge traffics from users. But after the events the traffic gets low, the hardware and resources remains unused most of the time.
+- Amazon got the idea to rent their unused hardware/infrastucuture to users.
+- They introduced EC2 (Elastic Computer Cloud) where coustomer can create their own VM by HTTP request.
+- At special events, I can rent more same configured VM/resource. Then can release when I don't need. Costing will be as per usage.
+- Intoduced S3 for storage.
 
 ## Cloud Computing
 
