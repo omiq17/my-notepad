@@ -6,6 +6,6 @@ nav_order: 1
 
 My Notepad
 
-An ever Work-in-Progress effort by [Rakib](https://raqib.me/)
+Some important notes during my learning of new technologies.
 
 ---
