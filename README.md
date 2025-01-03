@@ -4,4 +4,4 @@ An ever Work-in-Progress effort by [Rakib]
 
 ---
 
-[Rakib](https://raqib.me/)
+[Rakib](https://omiq17.github.io/my-notepad/docs/docker/)
