@@ -2,7 +2,7 @@
 layout: default
 title: AWS Pricing Modules
 parent: AWS
-nav_order: 3
+nav_order: 4
 ---
 
 ## AWS Pricing Modules

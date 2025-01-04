@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AWS Web Services
+title: AWS Global Infrastucture
 parent: AWS
 nav_order: 2
 ---
