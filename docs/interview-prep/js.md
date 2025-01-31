@@ -117,16 +117,16 @@ parent: Interview
     Layered System
     Code on Demand (optional)
 
-# relational/non-relaional db - mongoDB
+- relational/non-relaional db - mongoDB
 
-# web3, IPFS
+- web3, IPFS
 
-# Rust
+- Rust
 
-# Bash/shell scripting
+- Bash/shell scripting
 
-# terraform
+- terraform
 
-# vector db
+- vector db
 
-# semantic search tech - elastic
+- semantic search tech - elastic
