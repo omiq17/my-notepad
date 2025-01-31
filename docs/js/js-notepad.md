@@ -1,6 +1,6 @@
 ---
-layout: default
 title: JS Note
+parent: JS
 ---
 
 Special notes on Javascript

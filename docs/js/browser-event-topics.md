@@ -1,6 +1,7 @@
 ---
 layout: default
 title: JS browser event related note
+parent: JS
 ---
 
 **Event Bubbling**

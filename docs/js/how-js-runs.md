@@ -1,6 +1,6 @@
 ---
-layout: default
 title: How JS Runs
+parent: JS
 ---
 
 - JS code => V8/SpiderMonkey/Chakra/JavaScriptCore (JS Engine) => Machine code => Output in browser
