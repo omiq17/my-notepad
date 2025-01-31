@@ -1,4 +1,5 @@
 ---
+layout: default
 title: How JS Runs
 parent: JS
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: JS Scope
+parent: JS
 ---
 
 ```js
