@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: REST API Constraints
 parent: Node
 ---

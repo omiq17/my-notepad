@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Next.js Note
 parent: React
 ---

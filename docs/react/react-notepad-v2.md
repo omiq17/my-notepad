@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: React Note V2
 parent: React
 ---

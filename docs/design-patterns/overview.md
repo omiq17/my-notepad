@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Design patterns overview
 parent: Design Patterns
 ---

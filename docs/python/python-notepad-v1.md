@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Python Note
 parent: Python
 ---
