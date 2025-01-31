@@ -25,18 +25,6 @@ _Examples where var creates problems_:
     :: 2
     :: after loop 3
 
-    (function () {
-        for(var i = 0; i<3; i++) {
-            console.log(i);
-        }
-    }
-     )()
-    console.log("after loop", i)
-    :: 0
-    :: 1
-    :: 2
-    :: Uncaught ReferenceError: i is not defined
-
 _An horrible example:_
 
     (function () {
@@ -49,7 +37,7 @@ _An horrible example:_
     :: 0
     :: 1
     :: 2
-    :: after loop 3
+    :: Uncaught ReferenceError: i is not defined
 
 ### let
 

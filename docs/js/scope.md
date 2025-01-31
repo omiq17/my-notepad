@@ -109,7 +109,7 @@ The last part: _"even if the parent function has returned"_ is called **Closure*
 
 # Hoisting
 
-**Hoisting** is the mechanism of **moving the variables and functions declaration to the top of the function scope (or global scope if outside any function).**
+**Hoisting** is the mechanism of **moving the variables and functions declaration to the top of the function scope (or global scope if outside any function). However, only the declarations are hoisted, not the initializations.**
 
 Hoisting influences/affects/colute/contaminate the variable life-cycle, which consists of these 3 steps:
 
@@ -120,6 +120,26 @@ Hoisting influences/affects/colute/contaminate the variable life-cycle, which co
 `var`, `function` gets hoisted to the top of scope.
 
 `let`, `const`, `class` is not hoisted _(rough hoised)_.
+
+**Hoisting with var**
+Variables declared with var are hoisted but initialized with undefined.
+
+Example:
+
+```javascript
+console.log(myVar); // Output: undefined
+var myVar = 10;
+console.log(myVar); // Output: 10
+```
+
+How JavaScript interprets it internally:
+
+```javascript
+var myVar; // Hoisted with 'undefined'
+console.log(myVar); // undefined
+myVar = 10;
+console.log(myVar); // 10
+```
 
 **Sources**
 
