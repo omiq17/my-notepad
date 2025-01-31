@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Intro to Docker
-parent: Docker
-nav_order: 1
 ---
 
 Docker allows you to package an application with its `environment and all of its dependencies` into a "box", called a **container**.

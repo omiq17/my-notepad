@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ES6 Notepad
-parent: JS
 ---
 
 Important notes on ES6 fearures.
