@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Database
+title: Database Preparation
 parent: Interview
+nav_order: 2
 ---
 
 1. Optimizing an heavyload db table

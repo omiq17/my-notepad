@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Clarify Topics After Micro1 Interview
+parent: Interview
+nav_order: 3
 ---
 
 # Technical Interview Prep Master Summary
